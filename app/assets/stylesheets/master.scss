@@ -1,1 +1,14 @@
 @import "bootstrap";
+
+.navbar {
+  background: image_url('brickwall.png');
+  box-shadow: 0px 1px 3px #2a2a2a;
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 200;
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color: white;
+}
