@@ -69,6 +69,7 @@ gem 'figaro'
 gem 'carrierwave', '~> 1.0'
 gem "fog-aws"
 gem "mini_magick"
+gem 'carrierwave-aws'
 gem 'jquery-ui-rails'
 
-gem 'rails-assets-tether', '>= 1.3.3'
+# gem 'rails-assets-tether', source: 'https://rails-assets.org'
