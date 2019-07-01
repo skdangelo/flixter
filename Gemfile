@@ -72,4 +72,4 @@ gem "mini_magick"
 gem 'carrierwave-aws'
 gem 'jquery-ui-rails'
 
-# gem 'rails-assets-tether', source: 'https://rails-assets.org'
+gem 'rails-assets-tether', source: 'https://rails-assets.org'
