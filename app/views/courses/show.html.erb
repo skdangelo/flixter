@@ -6,10 +6,10 @@
     <%= image_tag @course.image.url, class: 'img-fluid' %>
   <% end %>
   <br />
-  <div class = "row">
-    <div class="col-sm-4 col-12 text-center">
+  <div class="row">
+    <div class="col-sm-4 col-12">
       <span class="badge badge-default">
-       <%= number_to_currency @course.cost %>
+        <%= number_to_currency @course.cost %>
       </span>
 
       <% if current_user && current_user == @course.user %>
