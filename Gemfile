@@ -73,5 +73,6 @@ gem "mini_magick"
 gem 'carrierwave-aws'
 gem 'jquery-ui-rails'
 gem 'stripe'
+gem 'ranked-model'
 
 gem 'rails-assets-tether', source: 'https://rails-assets.org'
