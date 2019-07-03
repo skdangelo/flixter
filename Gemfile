@@ -74,5 +74,6 @@ gem 'carrierwave-aws'
 gem 'jquery-ui-rails'
 gem 'stripe'
 gem 'ranked-model'
+gem "font-awesome-rails"
 
 gem 'rails-assets-tether', source: 'https://rails-assets.org'
